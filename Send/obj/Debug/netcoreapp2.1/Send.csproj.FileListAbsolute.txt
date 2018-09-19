@@ -1,0 +1,11 @@
+/Users/faustoruvalcaba/Send/bin/Debug/netcoreapp2.1/Send.deps.json
+/Users/faustoruvalcaba/Send/bin/Debug/netcoreapp2.1/Send.runtimeconfig.json
+/Users/faustoruvalcaba/Send/bin/Debug/netcoreapp2.1/Send.runtimeconfig.dev.json
+/Users/faustoruvalcaba/Send/bin/Debug/netcoreapp2.1/Send.dll
+/Users/faustoruvalcaba/Send/bin/Debug/netcoreapp2.1/Send.pdb
+/Users/faustoruvalcaba/Send/obj/Debug/netcoreapp2.1/Send.csprojAssemblyReference.cache
+/Users/faustoruvalcaba/Send/obj/Debug/netcoreapp2.1/Send.csproj.CoreCompileInputs.cache
+/Users/faustoruvalcaba/Send/obj/Debug/netcoreapp2.1/Send.AssemblyInfoInputs.cache
+/Users/faustoruvalcaba/Send/obj/Debug/netcoreapp2.1/Send.AssemblyInfo.cs
+/Users/faustoruvalcaba/Send/obj/Debug/netcoreapp2.1/Send.dll
+/Users/faustoruvalcaba/Send/obj/Debug/netcoreapp2.1/Send.pdb
